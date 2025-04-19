@@ -2,12 +2,6 @@
   Selamat Datang di Maou Dabi github
 </h2>
 
-<a href="https://komarev.com/ghpvc/?username=maoudabi0">
-  <img align="left"
-  src="https://komarev.com/ghpvc/?username=maoudabi0&label=Orang+Melihat&color=c2f542&style=plastic" alt="Profile visitor" />
-</a>
-
-
 <h3 align="center"><br> <br>
        <samp>Halo, saya 
              <b>
@@ -29,7 +23,7 @@
   </a>
 </p>
 
-- - -
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="left">
 Di sini, saya membagikan berbagai proyek, terutama yang berkaitan dengan pengembangan bot WhatsApp menggunakan whiskeysockets/baileys. Saya senang membangun plugin dan alat otomatisasi untuk meningkatkan pengalaman pengguna bot.
@@ -84,12 +78,12 @@ Menggunakan Bahasa Pemrograman<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoudabi0\&layout=donut)](https://github.com/maoudabi0/maoudabi0)
 
 ## 🅒 Code Source
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=maoudabi0&repo=BaseBot&border_color=7F3FBF&bg_color=FFFFFF&title_color=010101&text_color=8B949E&icon_color=7F3FBF)](https://github.com/maoudabi0/BaseBot)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=maoudabi0&repo=Dabichan-Ai&border_color=7F3FBF&bg_color=FFFFFF&title_color=010101&text_color=8B949E&icon_color=7F3FBF)](https://github.com/maoudabi0/Dabichan-Ai)
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=maoudabi0&repo=maoudabi0&border_color=7F3FBF&bg_color=FFFFFF&title_color=010101&text_color=8B949E&icon_color=7F3FBF)](https://github.com/maoudabi0/maoudabi0)
 
 <br>
 
-- - - 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Request & Fix 
    laporkan Bug ke [sini](https://wa.me/6285712168856?text=halo+kak+aku+ingin+melaporkan+bug)
