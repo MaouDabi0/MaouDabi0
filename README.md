@@ -86,4 +86,4 @@ Menggunakan Bahasa Pemrograman<br><br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Request & Fix 
-   laporkan Bug ke [sini](https://wa.me/6285?text=halo+kak+aku+ingin+melaporkan+bug)
+   laporkan Bug ke [sini](https://wa.me/6285725892962?text=halo+kak+aku+ingin+melaporkan+bug)
