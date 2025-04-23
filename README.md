@@ -78,7 +78,7 @@ Menggunakan Bahasa Pemrograman<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoudabi0\&layout=donut)](https://github.com/maoudabi0/maoudabi0)
 
 ## 🅒 Code Source
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=maoudabi0&repo=Dabichan-Ai&border_color=7F3FBF&bg_color=FFFFFF&title_color=010101&text_color=8B949E&icon_color=7F3FBF)](https://github.com/maoudabi0/Dabichan-Ai)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=maoudabi0&repo=Dabi-Ai&border_color=7F3FBF&bg_color=FFFFFF&title_color=010101&text_color=8B949E&icon_color=7F3FBF)](https://github.com/maoudabi0/Dabi-Ai)
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=maoudabi0&repo=maoudabi0&border_color=7F3FBF&bg_color=FFFFFF&title_color=010101&text_color=8B949E&icon_color=7F3FBF)](https://github.com/maoudabi0/maoudabi0)
 
 <br>
@@ -86,4 +86,4 @@ Menggunakan Bahasa Pemrograman<br><br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Request & Fix 
-   laporkan Bug ke [sini](https://wa.me/6285712168856?text=halo+kak+aku+ingin+melaporkan+bug)
+   laporkan Bug ke [sini](https://wa.me/6285?text=halo+kak+aku+ingin+melaporkan+bug)
