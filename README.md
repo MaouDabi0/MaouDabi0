@@ -80,6 +80,7 @@ Menggunakan Bahasa Pemrograman<br><br>
 ## 🅒 Code Source
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=maoudabi0&repo=Dabi-Ai&border_color=7F3FBF&bg_color=FFFFFF&title_color=010101&text_color=8B949E&icon_color=7F3FBF)](https://github.com/maoudabi0/Dabi-Ai)
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=maoudabi0&repo=maoudabi0&border_color=7F3FBF&bg_color=FFFFFF&title_color=010101&text_color=8B949E&icon_color=7F3FBF)](https://github.com/maoudabi0/maoudabi0)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=maoudabi0&repo=Dabi-Ai&border_color=7F3FBF&bg_color=FFFFFF&title_color=010101&text_color=8B949E&icon_color=7F3FBF)](https://github.com/maoudabi0/Dabi-Ai-Documentation)
 
 <br>
 
